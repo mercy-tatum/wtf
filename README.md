@@ -1,2 +1,3 @@
 # wtf
-this may or may not be right
+this may or may not be right.
+Update: It is right.
